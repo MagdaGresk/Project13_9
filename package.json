@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/MagdaGresk/Project13_9#readme",
   "dependencies": {
-    "colors": "^1.2.4"
+    "colors": "^1.2.4",
+    "formidable": "^1.2.1"
   }
 }
