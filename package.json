@@ -1,0 +1,24 @@
+{
+  "name": "Project13_9",
+  "version": "1.0.0",
+  "description": "https://github.com/MagdaGresk/Project13_9.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagdaGresk/Project13_9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagdaGresk/Project13_9/issues"
+  },
+  "homepage": "https://github.com/MagdaGresk/Project13_9#readme",
+  "dependencies": {
+    "colors": "^1.2.4"
+  }
+}
